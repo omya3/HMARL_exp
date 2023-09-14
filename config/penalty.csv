@@ -1,0 +1,4 @@
+Class,slav_cen_agent,rej_cen_agent,slav_class_agent,rej_class_agent
+class_1,25,1000,15,1000
+class_2,15,500,5,0
+class_3,10,300,1,0

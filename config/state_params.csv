@@ -1,0 +1,4 @@
+Class,arrival_rates,bid_value,duration,acceptable_slav
+class_1,20,25,20,0
+class_2,30,15,20,5
+class_3,40,12,20,10
